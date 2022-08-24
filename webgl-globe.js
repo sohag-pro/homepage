@@ -1,0 +1,1 @@
+"use strict";(()=>{var g=Object.defineProperty;var s=(_,b)=>g(_,"name",{value:b,configurable:!0});(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([["webgl-globe"],{16305:(_,b,e)=>{var l=e(23198),o=e.n(l)}},_=>{var b=s(l=>_(_.s=l),"__webpack_exec__");_.O(0,["vendors-node_modules_github_webgl-globe_dist_js_main_js"],()=>b(16305));var e=_.O()}]);})();
